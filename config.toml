@@ -35,11 +35,11 @@ identifier             = "contact"
 url                    = "/contact/"
 
 [params]
-include_rss            = true                          # include RSS <link> tag in <head> and show RSS icon
+include_rss            = false                          # include RSS <link> tag in <head> and show RSS icon
 latestpostscount       = 5                             # how many posts to display on the home page
 i18n_flags             = false                         # whether to display small country flags for available translations
 author                 = "Aaron Batalion"
-cachebuster            = true                          # add the current unix timestamp in query string for cache busting css assets
+cachebuster            = false                          # add the current unix timestamp in query string for cache busting css assets
 dateform               = "Jan 2, 2006"
 dateformfull           = "Mon Jan 2 2006 15:04:05 MST"
 description            = "Aaron Batalion's personal site"
@@ -53,7 +53,7 @@ noshowreadtime         = false                         # if true, don't show "<x
 selfintro              = ""                            # appears in the site header when set to a non-empty string
 twitter                = "//twitter.com/abatalion"
 
-highlightjs            = true
+highlightjs            = false
 # highlightjslanguages = ["go"]                        # additional languages not included in the "common" set
 # highlightjsStyle     = "darcula"
 
