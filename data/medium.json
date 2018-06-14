@@ -8,19 +8,55 @@
           "date": "2018-03-06" 
       },
 
-
       {
           "title": "Knowns vs Unknowns",
           "url": "https://medium.com/@abatalion/knowns-vs-unknowns-78b0da5ca887",
           "date": "2017-10-10"
       },
 
-
       {
           "title": "Permissionless Startup Investing",
           "url": "https://medium.com/@abatalion/permissionless-startup-investing-e95b868a2cd8",
           "date": "2017-10-02"
+      },
+
+      {
+          "title": "Amazon’s Echo Show",
+          "url": "https://medium.com/@abatalion/amazons-echo-show-why-we-may-soon-see-hardware-network-effects-at-scale-44442818f3cb",
+          "date": "2017-05-09"
+      },
+
+      {
+          "title": "Skate to where the voice is going…",
+          "url": "https://medium.com/lightspeed-venture-partners/skate-to-where-the-voice-is-going-43ffa8148f54",
+          "date": "2017-02-14"
+      },
+
+      {
+          "title": "Halloween is a reminder that photo sharing apps are still broken",
+          "url": "https://medium.com/lightspeed-venture-partners/halloween-is-a-reminder-that-photo-sharing-apps-are-still-broken-f5292dcf98b8",
+          "date": "2016-11-01"
+      },
+
+      {
+          "title": "Thoughts on LivingSocial — From a Guy Who Was There Day 0",
+          "url": "https://medium.com/@abatalion/thoughts-on-livingsocial-from-a-guy-who-was-there-day-0-331e40ee219c",
+          "date": "2016-10-26"
+      },
+
+      {
+          "title": "The Only Way That Uber Loses",
+          "url": "https://medium.com/lightspeed-venture-partners/the-only-way-that-uber-loses-c2e693e0f809",
+          "date": "2016-08-09"
+      },
+
+      {
+          "title": "Most Tech Interviews Suck — The Only 4 Questions That Matter",
+          "url": "https://medium.com/lightspeed-venture-partners/most-tech-interviews-suck-the-only-4-questions-that-matter-1a71181ef4d4",
+          "date": "2016-05-27"
       }
+
+
   ]
 
 }
