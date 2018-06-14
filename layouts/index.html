@@ -11,7 +11,7 @@
             <ul>
                 {{ range $.Site.Data.medium.posts }}
                 <li class="post-item">
-                  <span class="meta"><time datetime='{{ dateFormat "2006-01-02" .date  }}'>{{ dateFormat "Jan 2, 2006" .date  }}</time></span>
+                  <span class="meta"><time datetime='{{ dateFormat "2006-01-02" .date  }}'>{{ dateFormat "January 2006" .date  }}</time></span>
                   <a href="{{ .url }}"><span>{{ .title }}</span></a>
                 </li>
                 {{ end }}
