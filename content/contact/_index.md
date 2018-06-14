@@ -5,10 +5,10 @@ title = ""
 
 +++
 
-Want me to speak at your event?
+Want me to speak at your event?<br/>
 <a href="mailto:aaron+speaking@batalion.com">Email me here</a>
 
-Want to talk about your startup?
+Want to talk about your startup?<br/>
 <a href="mailto:aaron+startups@batalion.com">Email me here</a>
 
 <br />
