@@ -20,17 +20,6 @@
           "date": "2017-10-02"
       },
 
-      {
-          "title": "Amazon’s Echo Show",
-          "url": "https://medium.com/@abatalion/amazons-echo-show-why-we-may-soon-see-hardware-network-effects-at-scale-44442818f3cb",
-          "date": "2017-05-09"
-      },
-
-      {
-          "title": "Skate to where the voice is going…",
-          "url": "https://medium.com/lightspeed-venture-partners/skate-to-where-the-voice-is-going-43ffa8148f54",
-          "date": "2017-02-14"
-      },
 
       {
           "title": "Halloween is a reminder that photo sharing apps are still broken",
@@ -54,8 +43,28 @@
           "title": "Most Tech Interviews Suck — The Only 4 Questions That Matter",
           "url": "https://medium.com/lightspeed-venture-partners/most-tech-interviews-suck-the-only-4-questions-that-matter-1a71181ef4d4",
           "date": "2016-05-27"
-      }
+      },
 
+      {
+          "title": "When a plane lands, I always look out the window.",
+          "url": "https://medium.com/@abatalion/when-a-plane-lands-i-always-look-out-the-window-d2266d6fd996",
+          "date": "2015-05-07"
+      },
+      {
+          "title": "You’re wasting money on AWS… But it’s not your fault.",
+          "url": "https://medium.com/@abatalion/you-re-wasting-money-on-aws-461ce1f02c9f",
+          "date": "2015-03-06"
+      },
+      {
+          "title": "Screw flying cars, I want cars that own and maintain themselves",
+          "url": "https://medium.com/@abatalion/screw-flying-cars-i-want-cars-that-own-and-maintain-themselves-fc4689fe8a63",
+          "date": "2014-02-01"
+      },
+      {
+          "title": "AngelList: Non-Geeks, µCarry, 100 Signatures, Bricks and more…",
+          "url": "https://medium.com/i-m-h-o/angellist-non-geeks-carry-100-signatures-bricks-and-more-f553d7654fa8",
+          "date": "2013-10-15"
+      },
 
   ]
 
