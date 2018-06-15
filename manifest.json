@@ -1,0 +1,16 @@
+{
+  "short_name": "AaronB",
+  "name": "Aaron Batalion",
+  "icons": [
+    {
+      "src": "/img/profile-4x.png",
+      "type": "image/png",
+      "sizes": "200x200"
+    }
+  ],
+  "start_url": "/?utm_source=a2hs",
+  "background_color": "#fff",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#3367D6"
+}
