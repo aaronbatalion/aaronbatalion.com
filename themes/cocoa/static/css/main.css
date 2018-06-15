@@ -77,13 +77,10 @@ body {
     justify-content: flex-start;
     min-height: 100%;
     font-weight: 400;
-    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
     color: #111;
     line-height: 1.6;
     text-rendering: optimizeLegibility!important;
-}
-section.header .name, section.header h3.self-intro, section.header nav {
-    font-family: Raleway, 'Helvetica Neue', Arial, sans-serif;
 }
 
 section {
@@ -247,6 +244,12 @@ section.icons .content a .flag {
     border-radius: 50%
 }
 
+section.icons svg {
+    height:26px;
+    width:26px;
+    vertical-align: baseline;
+}
+
 section.main .container {
     -webkit-align-items: center;
     -moz-align-items: center;
@@ -265,7 +268,6 @@ section.main .content .page-heading, section.main .content .title-container .ini
     font-size: 18px;
     font-weight: 700;
     text-transform: uppercase;
-    font-family: Raleway, 'Helvetica Neue', Arial, sans-serif;
     letter-spacing: -.005rem;
 }
 section.main .content .title-container {
@@ -343,7 +345,6 @@ section.main .container.f04 .content {
 section.main .container.f04 .content .num {
     margin: 30px 0;
     font-weight: 200;
-    font-family: Raleway, 'Helvetica Neue', Arial, sans-serif;
     font-size: 50px;
 }
 section.main .container.f04 .content .detail {
@@ -371,7 +372,6 @@ section.main .container .content .no-bullet {
 }
 section.main .container .content .no-bullet .date {
     font-size: 18px;
-    font-family: Raleway, 'Helvetica Neue', Arial, sans-serif;
     letter-spacing: -.005rem;
     font-weight: 700;
     color: #666!important;
@@ -402,139 +402,6 @@ img.profile {
 .page-heading a {
    color: #333;
 }
-section.main .content .markdown h1, section.main .content .markdown h2, section.main .content .markdown h3, section.main .content .markdown h4, section.main .content .markdown h5, section.main .content .markdown h6 {
-  font-size: 18px;
-  font-family: Raleway, 'Helvetica Neue', Arial, sans-serif;
-  letter-spacing: -.005rem;
-  font-weight: 700;
-  color: #333;
-  text-transform: none;
-  margin-top: 1.75rem;
-}
-section.main .content .markdown h1 {
-  font-size: 1.75rem;
-  margin-bottom: 2rem;
-}
-section.main .content .markdown h2 {
-  font-size: 1.5rem;
-  margin-bottom: 1.5rem;
-}
-section.main .content .markdown h3 {
-  font-size: 1rem;
-  margin-bottom: 1rem;
-}
-section.main .content .markdown h4, section.main .content .markdown h5, section.main .content .markdown h6 {
-  font-size: 1rem;
-  margin-bottom: 1rem;
-  letter-spacing: none;
-}
-section.main .content .markdown code, section.main .content .markdown pre {
-   font-family: 'Ubuntu Mono', Menlo, monospace;
-   font-size: 1rem;
-   background-color: #f7f7f7;
-}
-section.main .content .markdown code {
-   padding: .15em .5em;
-   border-radius: 2px;
-}
-section.main .content .markdown pre {
- display: block;
- margin-top: 1rem;
- margin-bottom: 2rem;
- padding: 1rem;
- line-height: 1.5em;
- white-space: pre;
- white-space: pre-wrap;
- word-break: break-all;
- word-wrap: break-word;
-}
-section.main .content .markdown pre code {
- padding: 0;
- font-size: 1rem;
-}
-section.main .content .markdown a code {
- color: #428bca!important;
-}
-section.main .content .markdown a code:hover {
- text-decoration: underline;
-}
-section.main .content .markdown p {
- font-size: 1rem;
- margin-top: 0;
- margin-bottom: 1em;
-}
-section.main .content .markdown dl, section.main .content .markdown ol, section.main .content .markdown ul {
- margin-top: 1rem;
- margin-bottom: 2rem;
-}
-section.main .content .markdown dt {
- font-weight: 700;
-}
-section.main .content .markdown dd {
- margin-bottom: .5rem;
-}
-section.main .content .markdown ul {
- margin-bottom: 1.25rem;
-}
-section.main .content .markdown ul li {
-    list-style-type: disc;
-}
-section.main .content .markdown ol li {
-    list-style-type: decimal;
-}
-section.main .content .markdown li {
-    list-style-position: outside;
-    margin-left: 1em;
-}
-section.main .content .markdown em {
-    font-style: italic;
-}
-section.main .content .markdown strong {
-    font-weight: 700;
-}
-section.main .content .markdown hr {
-    position: relative;
-    margin: 1.75rem 0;
-    border: 0;
-    border-top: 1px solid grey;
-    border-top: 1px solid #999;
-}
-section.main .content .markdown abbr {
-    font-size: .85rem;
-    font-weight: 700;
-    color: #666;
-    text-transform: uppercase;
-}
-section.main .content .markdown abbr[title] {
-    cursor: help;
-    border-bottom: 1px dotted grey;
-}
-section.main .content .markdown blockquote {
-    padding: .5rem 1rem;
-    margin: .8rem 0;
-    color: #7a7a7a;
-    border-left: .25rem solid #e5e5e5;
-}
-section.main .content .markdown blockquote p:last-child {
-    margin-bottom: 0;
-}
-section.main .content .markdown img {
-    margin: 1rem 0;
-    max-width: 100%
-}
-section.main .content .markdown table {
-    margin-bottom: 1rem;
-    width: 100%;
-    border: 1px solid #e5e5e5;
-    border-collapse: collapse;
-}
-section.main .content .markdown td, section.main .content .markdown th {
-    padding: .25rem .5rem;
-    border: 1px solid #e5e5e5;
-}
-section.main .content .markdown tbody tr:nth-child(odd) td, section.main .content .markdown tbody tr:nth-child(odd) th {
-    background-color: #f7f7f7;
-}
 
 section.main .container .content .post-item .post-link  {
   margin-bottom: 25px;
@@ -544,8 +411,6 @@ section.main .container .content .post-item span {
   clear:left;
   text-align:left;
 }
-
-
 
 @media (min-width:600px) {
   body {
