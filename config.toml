@@ -12,6 +12,7 @@ pygmentsuseclasses  = true
 pluralizelisttitles = false
 googleAnalytics     = "UA-123-45"    #TODO
 
+
 [permalinks]
 blog  = "blog/:slug/"
 
@@ -60,3 +61,7 @@ highlightjs            = false
 
 avatar                 = "img/profile.png" # path to image in static dir e.g img/avatar.png (do not use in the same time as gravatar)
 
+[taxonomies]
+  tag = ""
+  group = ""
+  category = ""
