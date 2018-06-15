@@ -5,7 +5,6 @@ contentdir          = "content"
 languageCode        = "en-US"
 layoutdir           = "layouts"
 publishdir          = "public"
-theme               = "cocoa"
 author              = "Aaron Batalion"
 title               = "Hi! I'm Aaron Batalion!"
 pygmentsuseclasses  = true
