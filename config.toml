@@ -45,15 +45,9 @@ dateformfull           = "Mon Jan 2 2006 15:04:05 MST"
 description            = "Aaron Batalion's personal site"
 email                  = "aaron+hi-there@batalion.com"
 faviconfile            = "img/leaf.ico"
-instagram              = "//instagram.com/aaronbatalion"
 lang                   = "en"
 noshowreadtime         = false                         # if true, don't show "<x> minutes read" in posts
 selfintro              = ""                            # appears in the site header when set to a non-empty string
-
-
-highlightjs            = false
-# highlightjslanguages = ["go"]                        # additional languages not included in the "common" set
-# highlightjsStyle     = "darcula"
 
 
 avatar                 = "img/profile.png" # path to image in static dir e.g img/avatar.png (do not use in the same time as gravatar)

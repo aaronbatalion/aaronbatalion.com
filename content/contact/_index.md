@@ -6,13 +6,13 @@ title = "Contact"
 +++
 
 Want me to speak at your event?<br/>
-<a href="mailto:aaron+speaking@batalion.com">Email me here</a>
+<a title="email-speak" href="mailto:aaron+speaking@batalion.com">Email me here</a>
 
 Want me to speak on your podcast?<br/>
-<a href="mailto:aaron+podcast@batalion.com">Email me here</a>
+<a title="email-podcast" href="mailto:aaron+podcast@batalion.com">Email me here</a>
 
 Want to talk about your startup?<br/>
-<a href="mailto:aaron+startups@batalion.com">Email me here</a>
+<a title="email-startup" href="mailto:aaron+startups@batalion.com">Email me here</a>
 
 <br />
 
