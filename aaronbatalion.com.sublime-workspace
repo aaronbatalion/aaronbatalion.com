@@ -1,0 +1,350 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"album",
+				"album_json"
+			],
+			[
+				"alb",
+				"album_json"
+			],
+			[
+				"parent",
+				"parent_id"
+			],
+			[
+				"pare",
+				"parent_id"
+			],
+			[
+				"dealer",
+				"dealer1Region"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "aaronbatalion.com.sublime-project",
+			"settings":
+			{
+				"buffer_size": 177,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"preferen",
+				"Preferences: Settings"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"format",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/aaron/src/aaronbatalion.com"
+	],
+	"file_history":
+	[
+		"/Users/aaron/src/aaronbatalion.com/static/css/main.css",
+		"/Users/aaron/src/aaronbatalion.com/themes/cocoa/static/css/main.css",
+		"/Users/aaron/src/aaronbatalion.com/layouts/index.html",
+		"/Users/aaron/src/aaronbatalion.com/themes/cocoa/layouts/partials/head_includes.html",
+		"/Users/aaron/src/aaronbatalion.com/content/contact/_index.md",
+		"/Users/aaron/src/aaronbatalion.com/data/medium.json",
+		"/Users/aaron/src/aaronbatalion.com/themes/cocoa/layouts/partials/header.html",
+		"/Users/aaron/src/aaronbatalion.com/config.toml",
+		"/Users/aaron/src/aaronbatalion.com/public/index.html",
+		"/Users/aaron/src/aaronbatalion.com/themes/cocoa/i18n/en.yaml",
+		"/Users/aaron/src/aaronbatalion.com/.gitignore",
+		"/Users/aaron/src/aaronbatalion.com/.git/config",
+		"/Users/aaron/src/aaronbatalion.com/themes/cocoa/.gitignore",
+		"/Users/aaron/src/aaronbatalion.com/themes/cocoa/dev/Makefile",
+		"/Users/aaron/src/aaronbatalion.com/README.md",
+		"/Users/aaron/src/aaronbatalion.com/netlify.toml",
+		"/Users/aaron/src/aaronbatalion.com/themes/cocoa/layouts/partials/footer_scripts.html",
+		"/Users/aaron/src/aaronbatalion.com/content/about/_index.md",
+		"/Users/aaron/src/aaronbatalion.com/themes/cocoa/README.md",
+		"/Users/aaron/src/aaronbatalion.com/themes/cocoa/static/css/reset.css",
+		"/Users/aaron/src/aaronbatalion.com/bloglinks.json",
+		"/Users/aaron/src/aaronbatalion.com/themes/cocoa/layouts/partials/li.html",
+		"/Users/aaron/.aliases",
+		"/Volumes/Estate/Taxes/2017/bountysource.txt",
+		"/Users/aaron/Desktop/lsvp-calendar/lsvp-calendar.olm Folder/Accounts/Lsvp/Calendar/linkedin-urls.txt",
+		"/Users/aaron/Desktop/lsvp-calendar/lsvp-calendar.olm Folder/Accounts/Lsvp/Calendar/linkedin-urls2.txt",
+		"/Users/aaron/Documents/LSVP/Telegram ICO/lightspeed20telegram17.txt",
+		"/Users/aaron/.gmvault/gmvault_defaults.conf",
+		"/Users/aaron/src/pen-testing/Sublist3r/sublist3r.py",
+		"/Users/aaron/Library/Group Containers/UBF8T346G9.Office/Outlook/Outlook 15 Profiles/Main Profile/Data/Recent Addresses/181/B5F9B450-08A2-4EBB-A5EC-C15C2EA96745.olk15RecentAddresses",
+		"/Users/aaron/Desktop/homepage.json",
+		"/Users/aaron/Desktop/basic.selenium.js",
+		"/Users/aaron/Library/Group Containers/3L68KQB4HG.group.com.readdle.smartemail/cache/messagesData/1/10707/WiTag Lightspeed 8_2_17/Brand Assets/WiTag Logo Vector.svg",
+		"/Users/aaron/src/matter_js_playground/js/lib/p5/empty-example/sketch.js",
+		"/Users/aaron/src/serverless-alexa-skill/handler.js",
+		"/Users/aaron/src/serverless-alexa-skill/serverless.yml",
+		"/Users/aaron/.zshrc",
+		"/Users/aaron/.zsh",
+		"/Users/aaron/Desktop/Omni/sql2.sql",
+		"/Users/aaron/src/people/p.rb",
+		"/Users/aaron/Library/Mobile Documents/com~apple~CloudDocs/LSVP/HungryRoot/v3JLedits.txt",
+		"/Users/aaron/Library/Mobile Documents/com~apple~CloudDocs/LSVP/HungryRoot/v3.txt",
+		"/Users/aaron/src/docsend_chrome/jquery.1.11.1.min.js",
+		"/Users/aaron/src/docsend_chrome/style.css",
+		"/Users/aaron/src/people/cache/memberhub/ppl.json",
+		"/Users/aaron/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/aaron/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/aaron/src/people/Gemfile",
+		"/Users/aaron/src/people/cache/clearbit/wangm01-at-hotmail.com.json",
+		"/Users/aaron/src/people/cache/clearbit/stclair.jeff-at-gmail.com.json",
+		"/Users/aaron/src/people/cache/clearbit/skeny2002-at-yahoo.com.json",
+		"/Users/aaron/src/people/cache/clearbit/shivsingh-at-gmail.com.json",
+		"/Users/aaron/src/people/cache/clearbit/fountaingirl411-at-gmail.com.json",
+		"/Users/aaron/src/people/cache/clearbit/chiharu-at-chiharutanaka.com.json",
+		"/Users/aaron/Desktop/summit/summit.rb",
+		"/Users/aaron/Desktop/summit/summit.json",
+		"/Users/aaron/Desktop/summit/summit-list.enex",
+		"/Users/aaron/Desktop/classickids-urls.txt",
+		"/Users/aaron/Desktop/classickids.html",
+		"/Users/aaron/Downloads/summit-attendees.txt",
+		"/Users/aaron/Downloads/summit-list.txt",
+		"/Users/aaron/src/lsvp/people/get.rb",
+		"/Users/aaron/src/clearbit/index.js",
+		"/Users/aaron/src/clearbit/airtable.js",
+		"/Users/aaron/src/react/isomorphic-redux/.babelrc",
+		"/Users/aaron/src/react/isomorphic-redux/webpack.config.js",
+		"/Users/aaron/src/react/isomorphic-redux/shared/routes.jsx",
+		"/Users/aaron/src/react/isomorphic-redux/shared/components/index.jsx",
+		"/Users/aaron/src/react/isomorphic-redux/package.json",
+		"/Users/aaron/src/react/isomorphic-redux/index.js",
+		"/Users/aaron/src/react/isomorphic-redux/server.jsx",
+		"/Users/aaron/src/sikuli/TODO.md",
+		"/Users/aaron/.exports",
+		"/Volumes/me (Knox vault)/VRP/todo.txt",
+		"/Users/aaron/src/sikuli/foo.rb",
+		"/Users/aaron/src/sikuli/output.txt",
+		"/Users/aaron/src/sikuli/SikuliX-2014/API/src/main/java/org/sikuli/script/Finder.java",
+		"/Users/aaron/src/sikuli/output.jpg",
+		"/Users/aaron/src/java/gradle-playground/build.gradle",
+		"/build.gradle",
+		"/Users/aaron/.siegerc",
+		"/Users/aaron/.osx"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 115.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "aaronbatalion.com.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 177,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "aaronbatalion.com.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"li",
+				"themes/cocoa/layouts/partials/li.html"
+			],
+			[
+				"li.",
+				"themes/cocoa/layouts/partials/li.html"
+			],
+			[
+				"osx",
+				".osx"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
