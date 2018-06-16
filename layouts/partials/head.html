@@ -16,7 +16,11 @@
 {{ end }}
 </title>
 <link rel="canonical" href="{{ .Permalink }}">
-<style>{{ readFile "/static/css/main.css" | safeCSS }}</style>
+{{ if .Site.IsServer }}
+   <link rel="stylesheet" href="/css/main.css">
+{{ else }}
+   <style>{{ readFile "/static/css/main.css" | safeCSS }}</style>
+{{ end }}
 <link rel="shortcut icon" href="/img/leaf.ico">
 <link rel="manifest" href="/manifest.json">
 </head>
