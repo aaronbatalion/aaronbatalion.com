@@ -1,2 +1,4 @@
 </body>
 </html>
+{{ printf "<!-- GitHash: %s -->" .Hugo.CommitHash | safeHTML }} 
+{{ printf "<!-- BuildDate: %s -->" .Hugo.BuildDate | safeHTML }} 
