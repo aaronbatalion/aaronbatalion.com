@@ -21,5 +21,7 @@ Why did Aaron join Lightspeed as a Partner? “The founders of the fund are stil
 
 Still, it’s his recent experience on the founder’s side of the table that affords Aaron insights into the company-building process, from an empty git repository to billions in sales. “I don’t see this as a job,” he says. “I wake up every morning excited to help founding teams build tomorrow, today.”
 
+## <br />
 
-<br />
+<hr/>
+<a href="/img/headshot-body.png">Headshot</a> for conferences/speaking engagements/etc
