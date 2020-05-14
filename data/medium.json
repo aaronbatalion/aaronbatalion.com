@@ -2,7 +2,12 @@
 
     "posts": [
 
-      {
+    {
+        "title": "The Sovereign Protocol War — Part 2",
+        "url": "https://medium.com/@abatalion/the-sovereign-protocol-war-part-2-8efa2263be7e",
+        "date": "2019-06-25"
+    },
+    {
           "title": "Time to Dive Down the Rabbit Hole - Why I’m starting another company",
           "url": "https://medium.com/@abatalion/time-to-dive-down-the-rabbit-hole-f3e3bc07efa7",
           "date": "2018-06-19" 
