@@ -19,7 +19,3 @@ Then in 2018, he left venture capital after realizing he's much happier building
 
 His new company remains in stealth today.   
 
-## <br />
-
-<hr/>
-<a href="/img/headshot-body.png">Headshot</a> for conferences/speaking engagements/etc
