@@ -15,7 +15,7 @@ It turned out to be a good thing. As founder/CTO of one of the first “unicorns
 
 Upon leaving LivingSocial, Aaron was an angel investor and advisor, where he worked closely with 40-plus companies on technology, product, and growth. As a recent founder himself, he realized he wanted to help entrepreneurs full time and joined leading venture capital firm <a title="Lightspeed" rel="noopener" target="_blank" href="lsvp.com">Lightspeed</a> as a Partner, where he led investments in companies like <a title="Reliable Robotics" rel="noopener" target="_blank" href="https://reliable.co/">Reliable Robotics</a>, an autonomous airplane company founded by veterans of SpaceX, Tesla, and  GoogleX. 
 
-Then in 2018, he left venture capital after realizing he's much happier building new ideas himself than helping others do it from a distance. 
+Then in 2018, he left venture capital after realizing he's much happier building new teams & ideas than helping others do it from a distance. 
 
 His new company remains in stealth today.   
 
