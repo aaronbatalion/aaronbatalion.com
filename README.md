@@ -1,1 +1,0 @@
-personal site, based on Hugo and modified "cocoa" theme.

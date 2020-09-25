@@ -21,6 +21,8 @@ Why did Aaron join Lightspeed as a Partner? “The founders of the fund are stil
 
 Still, it’s his recent experience on the founder’s side of the table that affords Aaron insights into the company-building process, from an empty git repository to billions in sales. “I don’t see this as a job,” he says. “I wake up every morning excited to help founding teams build tomorrow, today.”
 
+Then in 2018, he left venture capital after realizing he's much happier building new ideas himself than helping others do it from a distance. His new company remains in stealth today.   
+
 ## <br />
 
 <hr/>
