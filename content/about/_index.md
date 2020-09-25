@@ -11,11 +11,9 @@ But Aaron’s career in tech nearly wasn’t. In addition to a degree in compute
 
 “But,” he says, “I realized my ADD wouldn’t let me sit still for the next 50 years.”
 
-It turned out to be a good thing. As CTO of one of the first “unicorns,” Aaron helped grow LivingSocial from four employees in 2007 to more than 4,500 in 2011. At its height, the company reached over 80 million consumers, scaled to 25 countries, and hit billions in global sales. The company was later acquired by <a target="_blank" rel="noopener" title="Groupon" href="groupon.com">Groupon</a>.
+It turned out to be a good thing. As founder/CTO of one of the first “unicorns,” Aaron helped grow LivingSocial (fka HungryMachine) from four employees in 2007 to more than 4,500 in 2011. At its height, the company reached over 80 million consumers, scaled to 25 countries, and hit billions in global sales. The company was later acquired by <a target="_blank" rel="noopener" title="Groupon" href="groupon.com">Groupon</a>.
 
-“After LivingSocial, I took time off to spend with family,” Aaron says. “But I was drawn back to startups, because I loved the excitement of going from a whiteboard to the first million users and more.”
-
-Aaron spent three years as an angel investor and advisor, where he worked closely with 40-plus companies on technology, product, and growth. As a recent founder himself, he realized he wanted to help entrepreneurs full time and joined leading venture capital firm <a title="Lightspeed" target="_blank" href="lsvp.com">Lightspeed</a> as a Partner, where he led investments in companies like <a title="Reliable Robotics" target="_blank" href="https://reliable.co/">Reliable Robotics</a>, an autonomous airplane company founded by veterans of SpaceX, Tesla, and  GoogleX. 
+Aaron then spent three years as an angel investor and advisor, where he worked closely with 40-plus companies on technology, product, and growth. As a recent founder himself, he realized he wanted to help entrepreneurs full time and joined leading venture capital firm <a title="Lightspeed" target="_blank" href="lsvp.com">Lightspeed</a> as a Partner, where he led investments in companies like <a title="Reliable Robotics" target="_blank" href="https://reliable.co/">Reliable Robotics</a>, an autonomous airplane company founded by veterans of SpaceX, Tesla, and  GoogleX. 
 
 Then in 2018, he left venture capital after realizing he's much happier building new ideas himself than helping others do it from a distance. 
 
