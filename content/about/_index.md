@@ -15,13 +15,11 @@ It turned out to be a good thing. As CTO of one of the first “unicorns,” Aar
 
 “After LivingSocial, I took time off to spend with family,” Aaron says. “But I was drawn back to startups, because I loved the excitement of going from a whiteboard to the first million users and more.”
 
-Aaron spent three years as an angel investor and advisor, where he worked closely with 40-plus companies on technology, product, and growth. As a recent founder himself, he realized he wanted to help entrepreneurs full time and was lured to <a title="Lightspeed" target="_blank" rel="noopener" href="lsvp.com">Lightspeed</a> by <a title="Jeremy Liew" target="_blank" rel="noopener" href="https://lsvp.com/team/jeremy-liew/">Jeremy Liew</a>, who not only led Lightspeed’s investment in LivingSocial in 2010, but also served on the company’s board.
+Aaron spent three years as an angel investor and advisor, where he worked closely with 40-plus companies on technology, product, and growth. As a recent founder himself, he realized he wanted to help entrepreneurs full time and joined leading venture capital firm <a title="Lightspeed" target="_blank" href="lsvp.com">Lightspeed</a> as a Partner, where he led investments in companies like <a title="Reliable Robotics" target="_blank" href="https://reliable.co/">Reliable Robotics</a>, an autonomous airplane company founded by veterans of SpaceX, Tesla, and  GoogleX. 
 
-Why did Aaron join Lightspeed as a Partner? “The founders of the fund are still here, they’ve taken dozens of companies to IPO, and there are 20-plus unicorns in the portfolio today—I knew I could bring a unique perspective to the team but also learn a lot from them.”
+Then in 2018, he left venture capital after realizing he's much happier building new ideas himself than helping others do it from a distance. 
 
-Still, it’s his recent experience on the founder’s side of the table that affords Aaron insights into the company-building process, from an empty git repository to billions in sales. “I don’t see this as a job,” he says. “I wake up every morning excited to help founding teams build tomorrow, today.”
-
-Then in 2018, he left venture capital after realizing he's much happier building new ideas himself than helping others do it from a distance. His new company remains in stealth today.   
+His new company remains in stealth today.   
 
 ## <br />
 
