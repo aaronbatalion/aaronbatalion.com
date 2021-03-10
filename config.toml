@@ -31,7 +31,6 @@ cachebuster            = false                          # add the current unix t
 dateform               = "Jan 2, 2006"
 dateformfull           = "Mon Jan 2 2006 15:04:05 MST"
 description            = "Aaron Batalion's personal site"
-email                  = "aaron+hi-there@batalion.com"
 faviconfile            = "img/leaf.ico"
 lang                   = "en"
 noshowreadtime         = false                         # if true, don't show "<x> minutes read" in posts
