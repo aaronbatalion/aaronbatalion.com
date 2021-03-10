@@ -17,22 +17,10 @@ blog  = "blog/:slug/"
 
 
 [[menu.main]]
-name                   = "Home"
-weight                 = -120
-identifier             = "home"
-url                    = "/"
-
-[[menu.main]]
 name                   = "About"
 weight                 = -110
 identifier             = "about"
 url                    = "/about/"
-
-[[menu.main]]
-name                   = "Contact"
-weight                 = -100
-identifier             = "contact"
-url                    = "/contact/"
 
 [params]
 include_rss            = false                          # include RSS <link> tag in <head> and show RSS icon
