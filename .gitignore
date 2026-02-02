@@ -1,4 +1,33 @@
-public
+# Logs
+logs
+*.log
+npm-debug.log*
 
-# Local Netlify folder
-.netlify
+# Dependency directories
+node_modules/
+
+# Build outputs
+dist/
+.wrangler/
+
+# Environment files
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Astro
+.astro/
+
+# Legacy Hugo files (can be removed after migration verified)
+# config.toml
+# layouts/
+# content/
+# data/
+# netlify.toml
