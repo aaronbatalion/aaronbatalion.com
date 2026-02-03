@@ -68,6 +68,20 @@ Re-imagine the design of `aaronbatalion.com` to be more than just a list of link
 - Import and use `<Header />`.
 - Remove inline header HTML and the separate `<section class="icons">`.
 
+#### [MODIFY] `src/pages/about.astro`
+- Import and use `<Header />`.
+- Remove inline header HTML and the separate `<section class="icons">`.
+
+### list Alignment
+#### [MODIFY] `src/pages/index.astro`
+- Add top padding to the list icons to visually center them with the text.
+
+### Mobile Rendering Fix
+#### [MODIFY] `static/css/main.css`
+- Change `.post-item` display from `list-item` to `flex` for all screen sizes.
+- Remove `float: left` and `clear: left` from `.post-item span` to prevent stacking.
+- Ensure consistent row layout on mobile.
+
 ## Verification Plan
 
 ### Automated Tests

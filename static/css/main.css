@@ -196,7 +196,7 @@ body {
     font-weight: 400;
     font-family: 'Helvetica Neue', Arial, sans-serif;
     color: #111;
-    line-height: 1.6;
+    line-height: 1.1;
     text-rendering: optimizeLegibility !important
 }
 
@@ -468,7 +468,10 @@ section.main .container .content .post-item {
     -moz-align-items: center;
     -ms-align-items: center;
     align-items: center;
-    display: list-item
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 25px;
+    /* Moved from post-link to here for spacing between items */
 }
 
 section.main .container .content .post-item .meta {
@@ -523,14 +526,10 @@ img.profile {
 }
 
 section.main .container .content .post-item .post-link {
-    margin-bottom: 25px
+    margin-bottom: 0px;
 }
 
-section.main .container .content .post-item span {
-    float: left;
-    clear: left;
-    text-align: left
-}
+
 
 @media (min-width:600px) {
     body {
@@ -908,4 +907,3 @@ section.main .content .markdown tbody tr:nth-child(odd) th {
     width: 20px;
     fill: #333;
 }
-
