@@ -38,8 +38,35 @@ Re-imagine the design of `aaronbatalion.com` to be more than just a list of link
 #### [MODIFY] static/css/main.css
 - Updated styling for centered social links.
 
+### [COMPLETED] Layout & Icon Refinements
+#### [MODIFY] src/pages/index.astro
+- Replaced "About" text link with a User SVG icon.
+- Moved "About" icon into the main social icons container.
+- [Update] Reverted "About" icon to "Info Circle" (circle 'i') per user request.
+
+#### [MODIFY] src/components/PlatformIcon.astro
+- Changed icon size from hardcoded 16px to `1.2em` to scale with font size.
+
+#### [MODIFY] static/css/main.css
+- Left-aligned header content (avatar, name, icons) on desktop to align with list content.
+- Cleaned up file (removed garbage data).
+
+
 #### [NEW] `src/documents/design_system.md`
 - Briefly document the design tokens (colors, fonts).
+
+### [COMPLETED] Header Refactoring
+#### [NEW] `src/components/Header.astro`
+- Extract the `<section class="header">` content from `index.astro`.
+- Contains: Avatar, Name, Social Icons (X, Instagram, LinkedIn, About).
+
+#### [MODIFY] `src/pages/index.astro`
+- Import and use `<Header />`.
+- Remove inline header HTML.
+
+#### [MODIFY] `src/pages/about.astro`
+- Import and use `<Header />`.
+- Remove inline header HTML and the separate `<section class="icons">`.
 
 ## Verification Plan
 
