@@ -19,7 +19,7 @@ function getPlatform(url: string): string {
   if (url.includes('medium.com')) return 'Medium';
   if (url.includes('x.com') || url.includes('twitter.com')) return 'X';
   if (url.includes('linkedin.com')) return 'LinkedIn';
-  if (url.includes('threads.net')) return 'Threads';
+  if (url.includes('threads.net') || url.includes('threads.com')) return 'Threads';
   return 'Web';
 }
 ---
