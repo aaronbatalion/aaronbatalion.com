@@ -30,6 +30,14 @@ Re-imagine the design of `aaronbatalion.com` to be more than just a list of link
 - Add utility classes for glassmorphism (`backdrop-filter`, `background-opacity`).
 - Add animations (fade-in, slide-up).
 
+### [COMPLETED] Branding Update
+#### [MODIFY] src/pages/index.astro
+- Updated headshot image reference.
+- Adjusted social links layout (centered).
+
+#### [MODIFY] static/css/main.css
+- Updated styling for centered social links.
+
 #### [NEW] `src/documents/design_system.md`
 - Briefly document the design tokens (colors, fonts).
 

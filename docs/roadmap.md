@@ -7,8 +7,9 @@ The objective is to transform the current simple list of links into a visually e
 ## Milestones
 
 - [ ] **Phase 1: Concept & Foundation**
-    - Define design direction (Modern/Premium).
-    - Set up project structure for new assets (icons/Components).
+    - [x] Update Branding Assets (Headshot, Favicon).
+    - [ ] Define design direction (Modern/Premium).
+    - [ ] Set up project structure for new assets (icons/Components).
 - [ ] **Phase 2: Core Components**
     - Create `LinkCard` component with favicon support.
     - Implement data fetching/hardcoding for X/Threads links.
