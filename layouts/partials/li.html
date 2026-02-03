@@ -1,8 +1,0 @@
-<li class="post-item">
-    {{ if .Site.Params.dateform }}
-    <span class="meta"><time datetime='{{ .date.Format "2006-01-02" }}'>{{ .Date.Format .Site.Params.dateform }}</time></span>
-    {{ else }}
-    <span class="meta"><time datetime='{{ .date.Format "2006-01-02" }}'>{{ .Date.Format "Jan 2, 2006" }}</time></span>
-    {{ end }}
-    <a href="{{ .Permalink }}"><span>{{ .Title }}</span></a>
-</li>
